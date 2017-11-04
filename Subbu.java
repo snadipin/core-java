@@ -3,7 +3,7 @@
 
 /*instance vs static  variables
 
-the main diff. is For every object we create new memory is allocated , so in below example out is of a is 10
+the main diff. is For every object we create new memory is allocated , so in below example out is of a is 20
 
 but for static variables only once the memory is allocated and it is only updated as below so every time we update that value is our outpu */
 
