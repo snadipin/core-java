@@ -1,9 +1,9 @@
 
-
+SHILPA HAS EDITED THIS PROGRAM:WQ
 
 // abstract class :-process of highlighting set of services and hinding the implemattions in the child classes is called abstraction.
 
-// for abstract class , object creation is not possible.
+//hi this is abbstract class from shilpa for abstract class , object creation is not possible.
 
 
 abstract class Parent 
